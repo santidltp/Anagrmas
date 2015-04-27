@@ -1,1 +1,2 @@
 #Anagrams
+This program takes a dictionary that contains anagrams. Those anagrams will be separated into their own classes and printed out. This particular software code uses a Counting sort to sort each word, which are going to be used as keys, and Merge sort will be used to sort the clases. 
